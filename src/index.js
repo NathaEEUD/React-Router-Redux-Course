@@ -12,6 +12,7 @@ const initialState = {
   trends: [
     {
       id: 2,
+      listType: "trends",
       slug: "tvshow-2",
       title: "In the Dark",
       type: "Scripted",
@@ -25,6 +26,7 @@ const initialState = {
     },
     {
       id: 3,
+      listType: "trends",
       slug: "tvshow-3",
       title: "Instinct",
       type: "Adventure",
@@ -38,6 +40,7 @@ const initialState = {
     },
     {
       id: 4,
+      listType: "trends",
       slug: "tvshow-4",
       title: "Grand Hotel",
       type: "Comedy",
@@ -51,6 +54,7 @@ const initialState = {
     },
     {
       id: 5,
+      listType: "trends",
       slug: "tvshow-5",
       title: "Stargate Atlantis",
       type: "Scripted",
@@ -64,6 +68,7 @@ const initialState = {
     },
     {
       id: 6,
+      listType: "trends",
       slug: "tvshow-6",
       title: "Final Space",
       type: "Scripted",
@@ -77,6 +82,7 @@ const initialState = {
     },
     {
       id: 7,
+      listType: "trends",
       slug: "tvshow-7",
       title: "The InBetween",
       type: "Drama",
@@ -92,6 +98,7 @@ const initialState = {
   originals: [
     {
       id: 8,
+      listType: "originals",
       slug: "tvshow-8",
       title: "Stargate Atlantis",
       type: "Action",
@@ -105,6 +112,7 @@ const initialState = {
     },
     {
       id: 9,
+      listType: "originals",
       slug: "tvshow-9",
       title: "Alien Highway",
       type: "Action",
@@ -118,6 +126,7 @@ const initialState = {
     },
     {
       id: 10,
+      listType: "originals",
       slug: "tvshow-10",
       title: "Elementary",
       type: "Animation",
@@ -131,6 +140,7 @@ const initialState = {
     },
     {
       id: 11,
+      listType: "originals",
       slug: "tvshow-11",
       title: "Strange Angel",
       type: "War",
@@ -144,6 +154,7 @@ const initialState = {
     },
     {
       id: 12,
+      listType: "originals",
       slug: "tvshow-12",
       title: "Private Eyes",
       type: "Comedy",
@@ -157,6 +168,7 @@ const initialState = {
     },
     {
       id: 13,
+      listType: "originals",
       slug: "tvshow-13",
       title: "NCIS: Los Angeles",
       type: "Drama",
